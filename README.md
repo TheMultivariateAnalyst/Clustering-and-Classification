@@ -1,2 +1,5 @@
 # Clustering-and-Classification
 Loan Analysis: Customer Segmentation and Offer Prediction
+
+
+The project involves two main tasks: clustering and classification. In the clustering phase, a loan dataset is analyzed using K-means clustering to group customers based on loan history and relevant features. Exploratory data analysis is performed to understand the dataset, handle missing values, and treat outliers. Categorical variables are encoded, and data is scaled using StandardScaler. The optimal number of clusters is determined using the elbow method, and customers are assigned to clusters. Cluster characteristics are analyzed using visualizations. In the classification phase, four algorithms (Logistic Regression, Decision Tree Classifier, K-Nearest Neighbors Classifier, and Random Forest Classifier) are employed to predict loan offers. The dataset is preprocessed, split into training and testing sets, and classifiers are trained and evaluated. Cross-validation is used for performance estimation. The Random Forest Classifier is identified as the best model. The project's insights can inform marketing strategies, loan offerings, and improve business performance.
